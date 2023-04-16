@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiceRollingApp</string>
+
+    <string name="create_dices">Create Dices</string>
+    <string name="enter_dice">Enter side of dice</string>
+    <string name="single_dice">Single dice side example:6</string>
+    <string name="multiple_dice">Multiple dice side example:6,8,10,12</string>
+    <string name="contains_ten">Input must be contains 10</string>
+    <string name="roll_dices">Roll Dices</string>
+    <string name="first_dice">First Dice: </string>
+    <string name="second_dice">Second Dice: </string>
+</resources>
